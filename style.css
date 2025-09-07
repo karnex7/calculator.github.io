@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+body{
+    background-image: linear-gradient(to bottom, rgb(44, 43, 43), rgb(108, 108, 108));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
 @font-face {
     font-family: calculator-font;
     src: url(Fonts/SFPRODISPLAYREGULAR.OTF);
